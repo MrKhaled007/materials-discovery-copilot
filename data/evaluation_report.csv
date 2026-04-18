@@ -1,0 +1,2 @@
+total_materials,precision_at_3,precision_at_5,precision_at_10,spearman_correlation,spearman_p_value,usability_coverage
+500,1.0,0.8,0.6,0.7778679427057258,1.5588709936025037e-102,0.786
