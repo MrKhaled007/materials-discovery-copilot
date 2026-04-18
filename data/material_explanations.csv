@@ -1,32 +1,26 @@
 material_id,formula,final_score,explanation_text,shap_energy_above_hull,shap_band_gap,shap_density,shap_volume,shap_avg_atomic_number,shap_avg_electronegativity,shap_avg_atomic_radius,shap_avg_atomic_mass,shap_num_elements
-mp-27971,AcCl3,0.993897630763312,"**AcCl3** received a score of 0.994.
+mp-1784,CsF,0.9928800279813896,"**CsF** received a score of 0.993.
 
 ✅ **Strengths:** This material scored well primarily due to its band gap (electronic property), thermodynamic stability.
 
-🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.1682696935904085,0.22082622924047812,0.038149334623498676,0.003630144971195999,0.004694173248048691,0.0002815531323310529,0.0019028677025981966,0.004598827505819594,-2.361654291967206e-06
-mp-27972,AcBr3,0.9310808818120454,"**AcBr3** received a score of 0.931.
+🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.16609679972927271,0.226168687171275,0.04010885129559511,0.0035733049603913518,0.00047374371671055017,0.000584535797847736,0.0002353393138977844,0.0012060506217795976,8.992710716392377e-05
+mp-559798,NiF2,0.991888823444321,"**NiF2** received a score of 0.992.
 
 ✅ **Strengths:** This material scored well primarily due to its band gap (electronic property), thermodynamic stability.
 
-🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.15831492882657164,0.18961757469407076,0.02615514834471869,1.9071958390164678e-05,0.004520792810196257,0.00035176543832660925,-0.00015676463678911264,0.004073271202599169,-5.936947629450043e-06
-mp-30273,AcClO,0.918575163854717,"**AcClO** received a score of 0.919.
+🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.1661610974429296,0.2242729482519974,0.041020324323089774,0.0036591192715070783,0.00043016177575892864,0.0012363395965008812,0.001607377591801389,0.0004594785004445245,8.992710716392377e-05
+mp-22865,CsCl,0.9779169106936786,"**CsCl** received a score of 0.978.
 
 ✅ **Strengths:** This material scored well primarily due to its band gap (electronic property), thermodynamic stability.
 
-⚠️ **Considerations:** The score was reduced by average atomic mass.
-
-🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.15515684849802366,0.20451608574784913,0.008281968948933686,0.0020620622173913475,-0.0005644733050217439,-0.0002463461676481021,-0.0005281746064234848,-0.00141954647718009,-1.1272716108718192e-05
-mp-985278,AcF3,0.91530092954909,"**AcF3** received a score of 0.915.
+🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.16349469352680024,0.22528520603872956,0.031462947991913987,0.0035824413773506408,-9.495339766567926e-05,-0.0006484632805242381,-0.0004912088910770848,0.0008893361452402998,8.992710716392377e-05
+mp-11718,RbF,0.977697408962737,"**RbF** received a score of 0.978.
 
 ✅ **Strengths:** This material scored well primarily due to its band gap (electronic property), thermodynamic stability.
 
-⚠️ **Considerations:** The score was reduced by material density, average atomic mass.
-
-🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.1593047343446527,0.21300107112670258,-0.017928249099768,-0.0002738045464942978,-0.0009121330517282428,-0.0002857675331518954,-0.0005041228826729685,-0.0020242837328596393,0.00010435930699701796
-mp-30274,AcBrO,0.8952614873694377,"**AcBrO** received a score of 0.895.
+🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.1651791015172612,0.22454839893058998,0.030110540557898864,0.003445884630599676,0.0003906869860186322,0.0015901221158115327,-0.00011507544512537478,0.0003533448603686541,8.992710716392377e-05
+mp-682,NaF,0.9583955615044,"**NaF** received a score of 0.958.
 
 ✅ **Strengths:** This material scored well primarily due to its band gap (electronic property), thermodynamic stability.
 
-⚠️ **Considerations:** The score was reduced by average atomic mass, average atomic number.
-
-🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.15130276920656832,0.19243879306167888,0.001627532907226244,0.002116500490311694,-0.001120263261531819,-0.00019576761814705222,8.21281082341207e-05,-0.0019928911286477206,-9.816675215542184e-05
+🟢 **Recommendation:** Strong candidate — suitable for further investigation.",0.16122037925021507,0.22380293628212844,0.013669637886292338,0.00415363669314667,1.2348647649662693e-05,0.0009793647800077898,0.0003980730972220522,-0.0002603726171999627,8.784763874478542e-05
