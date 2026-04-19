@@ -34,7 +34,7 @@ This project builds a production-grade **Microsoft Copilot Studio agent** that e
 ## 🏗️ Architecture
 ```mermaid
 flowchart TD
-    A[👤 UserNatural Language Query] -->|'Recommend 3 lithium materials'| B
+    A[👤 UserNatural Language Query] -->|'Find sodium-based materials with low density'| B
 
     B[🤖 Microsoft Copilot Studio AgentAI Orchestration & Intent Extraction]
 
